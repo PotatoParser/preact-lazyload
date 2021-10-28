@@ -21,7 +21,7 @@ const App = () => (
 render(<App/>, document.body);
 ```
 
-Looking for lazy loading images? Although `preact-lazyload` supports all elements, it's better to use `preact-lazyimg`
+Looking for lazy loading images? Although `preact-lazyload` supports all elements, it's better to use `preact-lazyimage`
 
 ### Multiple elements
 ```jsx
