@@ -1,7 +1,7 @@
 {
   "name": "preact-lazyload",
   "version": "0.0.1",
-  "description": "Dead simple lazyloading in preact.",
+  "description": "Dead simple lazy loading in preact.",
   "main": "index.js",
   "scripts": {
     "examples": "preact watch --src examples"
@@ -21,5 +21,16 @@
   },
   "peerDependencies": {
     "preact": "*"
-  }
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PotatoParser/preact-lazyload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PotatoParser/preact-lazyload/issues"
+  },
+  "homepage": "https://github.com/PotatoParser/preact-lazyload#readme"
 }
