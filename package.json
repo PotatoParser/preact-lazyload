@@ -1,6 +1,6 @@
 {
   "name": "preact-lazyload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dead simple lazy loading in preact.",
   "main": "index.js",
   "scripts": {
