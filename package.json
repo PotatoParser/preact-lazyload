@@ -1,0 +1,25 @@
+{
+  "name": "preact-lazyload",
+  "version": "0.0.1",
+  "description": "Dead simple lazyloading in preact.",
+  "main": "index.js",
+  "scripts": {
+    "examples": "preact watch --src examples"
+  },
+  "keywords": [
+    "lazy",
+    "lazyload",
+    "lazy loading",
+    "lazy image",
+    "lazyimg",
+    "preact"
+  ],
+  "author": "Wilson Nguyen",
+  "license": "MIT",
+  "devDependencies": {
+    "preact": "^10.x.x"
+  },
+  "peerDependencies": {
+    "preact": "*"
+  }
+}
